@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iyan\\source\\repos\\uts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|C:\\Users\\iyan\\source\\repos\\uts\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|c:\\users\\iyan\\source\\repos\\uts\\laporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|solutionrelative:laporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|C:\\Users\\iyan\\source\\repos\\uts\\menuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|solutionrelative:menuutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|C:\\Users\\iyan\\source\\repos\\uts\\stok.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|solutionrelative:stok.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|C:\\Users\\iyan\\source\\repos\\uts\\pesanan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|solutionrelative:pesanan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|C:\\Users\\iyan\\source\\repos\\uts\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|C:\\Users\\iyan\\source\\repos\\uts\\dataadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|solutionrelative:dataadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|C:\\Users\\iyan\\source\\repos\\uts\\daftar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{50112A21-33E6-4160-BA0A-835C9C7F0BBD}|uts.vbproj|solutionrelative:daftar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laporan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\iyan\\source\\repos\\uts\\Laporan.vb",
+              "RelativeDocumentMoniker": "Laporan.vb",
+              "ToolTip": "C:\\Users\\iyan\\source\\repos\\uts\\Laporan.vb [Design]",
+              "RelativeToolTip": "Laporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-18T06:12:50.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stok.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\iyan\\source\\repos\\uts\\Stok.vb",
+              "RelativeDocumentMoniker": "Stok.vb",
+              "ToolTip": "C:\\Users\\iyan\\source\\repos\\uts\\Stok.vb [Design]",
+              "RelativeToolTip": "Stok.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-18T06:11:03.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pesanan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\iyan\\source\\repos\\uts\\Pesanan.vb",
+              "RelativeDocumentMoniker": "Pesanan.vb",
+              "ToolTip": "C:\\Users\\iyan\\source\\repos\\uts\\Pesanan.vb [Design]",
+              "RelativeToolTip": "Pesanan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-18T06:10:13.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\iyan\\source\\repos\\uts\\DataAdmin.vb",
+              "RelativeDocumentMoniker": "DataAdmin.vb",
+              "ToolTip": "C:\\Users\\iyan\\source\\repos\\uts\\DataAdmin.vb [Design]",
+              "RelativeToolTip": "DataAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-18T06:09:39.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuUtama.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\iyan\\source\\repos\\uts\\MenuUtama.vb",
+              "RelativeDocumentMoniker": "MenuUtama.vb",
+              "ToolTip": "C:\\Users\\iyan\\source\\repos\\uts\\MenuUtama.vb [Design]",
+              "RelativeToolTip": "MenuUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-18T05:56:02.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Daftar.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\iyan\\source\\repos\\uts\\Daftar.vb",
+              "RelativeDocumentMoniker": "Daftar.vb",
+              "ToolTip": "C:\\Users\\iyan\\source\\repos\\uts\\Daftar.vb [Design]",
+              "RelativeToolTip": "Daftar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-18T03:12:35.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\iyan\\source\\repos\\uts\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\iyan\\source\\repos\\uts\\Login.vb [Design]",
+              "RelativeToolTip": "Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-18T01:57:13.524Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\iyan\\source\\repos\\uts\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\iyan\\source\\repos\\uts\\Login.vb",
+              "RelativeToolTip": "Login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-18T02:50:37.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
