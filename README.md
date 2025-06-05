@@ -1,4 +1,4 @@
-# 🍲 Kasir Warung Seblak – Aplikasi POS Sederhana dengan VB.NET
+# 🍲 Kasir Warung Seblak – Aplikasi Kasir Sederhana dengan VB.NET
 
 **Kasir Warung Seblak** adalah aplikasi kasir digital yang dibuat khusus untuk usaha kecil seperti warung seblak, angkringan, atau kios makanan lainnya.  
 Dibangun menggunakan **VB.NET (Windows Forms) di Visual Studio**, aplikasi ini memudahkan pencatatan pesanan, menghitung total belanja, dan mencetak nota — cepat, ringan, dan efisien.
